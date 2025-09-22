@@ -12,7 +12,7 @@ staticfiles/
 /local_settings.py
 
 # Python #
-
+*.so
 *.egg
 *.egg-info/
 dist/
